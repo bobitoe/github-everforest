@@ -1,3 +1,4 @@
+![SS](/assets/preview.png?raw=true "Preview")
 This is a CSS style to make Github use the colors from the everforest theme.\
 [Theory](https://github.com/Theory-of-Everything/) had already made one before me which can be found ![here](https://github.com/Theory-of-Everything/everforest-userstyles-css) but I disliked parts of it so I decided to make my own.
 # Installing
