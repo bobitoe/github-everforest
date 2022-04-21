@@ -21,7 +21,7 @@
     --color-page-header-bg: var(--bg2) !important;
     --color-canvas-subtle: var(--bg0) !important;
     --color-header-bg: var(--bg2) !important;
-    --color-neutral-muted: var(--bg1) !important;
+    --color-neutral-muted: var(--bg2) !important;
     --color-canvas-inset: var(--bg2) !important;
     --color-btn-primary-hover-bg: var(--aqua) !important;
     --color-btn-primary-bg: var(--purple) !important;
@@ -71,6 +71,7 @@
     --color-codemirror-syntax-variable: var(--orange) !important;
     --color-codemirror-syntax-keyword: var(--red) !important;
     --color-codemirror-syntax-comment: var(--fg1) !important;
+    --color-codemirror-syntax-string: var(--blue) !important;
 }
 
 
